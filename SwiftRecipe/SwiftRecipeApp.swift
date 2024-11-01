@@ -1,10 +1,3 @@
-//
-//  SwiftRecipeApp.swift
-//  SwiftRecipe
-//
-//  Created by Bruna Duarte on 2024-10-31.
-//
-
 import SwiftUI
 
 @main
